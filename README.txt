@@ -18,4 +18,9 @@ Note: There are no features/functions built into this shell. It only
       manner, nor switch between sessions. This is a basic shell design
       used for basic penetration testing / red teaming activities.
 
-Use responsibly!
+      If used on a Windows NT platform, using AutoPyToExe (fouond at
+      https://pypi.org/project/auto-py-to-exe/) is a plausible option
+      for converting the client.py to a packaged non-dependent Windows
+      executable file.
+
+Good luck, and use responsibly!
