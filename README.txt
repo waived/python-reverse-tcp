@@ -24,3 +24,10 @@ Note: There are no features/functions built into this shell. It only
       executable file.
 
 Good luck, and use responsibly!
+
+
+--- UPDATE ---
+As of November 12th, this shell has been flagged by
+Microsoft Windows Defender as "VirTool:Python/Reveshesz.A"
+Obfuscation or modification of the client will be required
+for a successful execution on the Windows NT platform.
